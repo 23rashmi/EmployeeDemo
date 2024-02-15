@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\bin\Debug\net6.0\EmployeeDemo.exe
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\bin\Debug\net6.0\EmployeeDemo.deps.json
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\bin\Debug\net6.0\EmployeeDemo.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\bin\Debug\net6.0\EmployeeDemo.dll
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\bin\Debug\net6.0\EmployeeDemo.pdb
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.dll
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\refint\EmployeeDemo.dll
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.pdb
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\EmployeeDemo.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\EmployeeDemo\EmployeeDemo\obj\Debug\net6.0\ref\EmployeeDemo.dll
